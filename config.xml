@@ -19,9 +19,9 @@ Lorenzo Liotta
 
 <!-- piattaforma di riferimento ed icona della app -->
 <platform name="android">
-<icon src="images/icona1.jpg" density="ldpi" />
-<icon src="images/icona1.jpg" density="mdpi" />
-<icon src="images/icona1.jpg" density="hdpi" />
-<icon src="images/icona1.jpg" density="xhdpi" />
+<icon src="images/icona1.png" density="ldpi" />
+<icon src="images/icona1.png" density="mdpi" />
+<icon src="images/icona1.png" density="hdpi" />
+<icon src="images/icona1.png" density="xhdpi" />
 </platform>
 </widget>
