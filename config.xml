@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versionCode = "22"
+version = "1.6.0" >
+<!-- nome della app -->
+<name>Corni di Canzo</name>
+<!-- descrizione -->
+<description>
+Scopri i Corni di Canzo come se fossi lì!
+</description>
+<!-- autore -->
+<author href="https://build.phonegap.com">
+Lorenzo Liotta
+</author>
+<!-- abilita links esterni -->
+<allow-navigation href="*://*.canossamilano.org/*" />
+
+<!-- piattaforma di riferimento ed icona della app -->
+<platform name="android">
+<icon src="imgages/icona1.jpg" density="ldpi" />
+<icon src="imgages/icona1.jpg" density="mdpi" />
+<icon src="imgages/icona1.jpg" density="hdpi" />
+<icon src="imgages/icona1.jpg" density="xhdpi" />
+</platform>
+</widget>
