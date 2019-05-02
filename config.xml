@@ -22,6 +22,6 @@ Lorenzo Liotta
 <icon src="images/icona1.jpg" density="ldpi" />
 <icon src="images/icona1.jpg" density="mdpi" />
 <icon src="images/icona1.jpg" density="hdpi" />
-<icon src="images/icona1.jpg" density="xhdpi" />
+<icon src="images/icona1.jpg" density="xhdpi"/>
 </platform>
 </widget>
